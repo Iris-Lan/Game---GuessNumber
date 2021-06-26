@@ -38,6 +38,4 @@ if(userVal === randomNumber){
           })
         return;
     }
-
-    //最後其實可不寫 因為邏輯已確認
 });
