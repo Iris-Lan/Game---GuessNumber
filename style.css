@@ -1,11 +1,17 @@
 input{
     border-radius: 50px;
-<<<<<<< HEAD
-}
-=======
-    border: 1px solid #999;
-    padding: 10px;
 }
 
-/* do something */
->>>>>>> 387f11d (change order of codes)
+button{
+    border-radius: 50px;
+    border: none;
+    padding: 10px;
+    background: pink;
+    color: #fff;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+button:hover{
+    background: orange;
+}
