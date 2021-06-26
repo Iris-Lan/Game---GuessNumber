@@ -1,5 +1,11 @@
 input{
-    padding: 10px;
-    border: 1px solid #999;
     border-radius: 50px;
+<<<<<<< HEAD
 }
+=======
+    border: 1px solid #999;
+    padding: 10px;
+}
+
+/* do something */
+>>>>>>> 387f11d (change order of codes)
